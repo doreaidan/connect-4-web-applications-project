@@ -1,0 +1,42 @@
+{
+    "0": {
+        "opponent1": "aidan",
+        "opponent2": "0",
+        "winner": "0",
+        "loser": "77",
+        "status": 1,
+        "numofTurns": 0,
+        "forfeitStatus": 0,
+        "turnOrder": []
+    },
+    "1": {
+        "opponent1": "aidan",
+        "opponent2": "0",
+        "winner": "1",
+        "loser": "0",
+        "status": 0,
+        "numofTurns": 0,
+        "forfeitStatus": 0,
+        "turnOrder": []
+    },
+    "2": {
+        "opponent1": "0",
+        "opponent2": "0",
+        "winner": "2",
+        "loser": "0",
+        "status": 0,
+        "numofTurns": 0,
+        "forfeitStatus": 0,
+        "turnOrder": []
+    },
+    "3": {
+        "opponent1": "0",
+        "opponent2": "aidan",
+        "winner": "2",
+        "loser": "66",
+        "status": 1,
+        "numofTurns": 0,
+        "forfeitStatus": 0,
+        "turnOrder": []
+    }
+}

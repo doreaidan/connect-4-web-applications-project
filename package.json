@@ -1,0 +1,19 @@
+{
+  "name": "connect4project",
+  "version": "1.0.0",
+  "description": "Connect 4 project for COMP2406",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongodb": "^3.6.2",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start",
+    "start": "node index.js"
+  },
+  "author": "Aidan Dore",
+  "license": "ISC"
+}
